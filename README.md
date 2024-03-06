@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @phanquoctuan20081998
+- 👋 Hi, I’m Tuan
 - 👀 I’m interested in Machine Learning and iOS 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently working in Japan
 - 💞️ I’m looking to collaborate on AI and iOS project
 - 📫 How to reach me phanquoctuan20081998@gmail.com
 
